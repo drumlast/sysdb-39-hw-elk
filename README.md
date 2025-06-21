@@ -12,13 +12,6 @@ Kibana ![alt text](img/2.png)
 #### Скриншот с логами Logstash из nginx
 Logstash ![alt text](img/3.png)
 
-
-Статус keepalived до:
-![alt text](img/2-1_vm1.png)
-![alt text](img/2-2_vm2.png)
-![alt text](img/2-3_before_vm1.png)
-![alt text](img/2-4_before_vm2.png)
-
-Статус keepalived после:
-![alt text](img/2-5_after_vm1.png)
-![alt text](img/2-6_after_vm2.png)
+### Задание 4
+#### Скриншот с логами filebeat из nginx
+Filebeat ![alt text](img/4.png)
