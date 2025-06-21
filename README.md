@@ -8,6 +8,11 @@ Elasticsearch ![alt text](img/1.png)
 #### Скриншот с интерфейсом Kibana и результатом запроса
 Kibana ![alt text](img/2.png)
 
+### Задание 3
+#### Скриншот с логами Logstash из nginx
+Logstash ![alt text](img/3.png)
+
+
 Статус keepalived до:
 ![alt text](img/2-1_vm1.png)
 ![alt text](img/2-2_vm2.png)
